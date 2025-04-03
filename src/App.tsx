@@ -1,6 +1,5 @@
-
-import PokemonCard from "./components/PokemonCard"
 import './App.css'
+import PokemonCard from "./components/PokemonCard"
 
 function App() {
 
