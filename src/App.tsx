@@ -19,7 +19,7 @@ function App() {
   return (
     <>
       <section>
-      <PokemonCard pokemon={pokemonList[0]} />
+      <PokemonCard pokemon={pokemonList[1]} />
       </section>
     </>
   )
